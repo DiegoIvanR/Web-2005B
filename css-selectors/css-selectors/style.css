@@ -1,0 +1,31 @@
+* {
+    background-color: lightblue;
+}
+
+img {
+    opacity: 0.5;
+    height: 150px;
+}
+.ingredients li {
+    color: red;
+    background-color: blue;
+    list-style: square;
+}
+.description{
+    font-size: 20px;
+}
+
+#cook-time{
+    font-weight: bold;
+}
+p.time{
+    color:gray;
+}
+
+.external-link{
+    color: seagreen;
+}
+
+h1, h2, p, li {
+    font-family: Helvetica;
+}

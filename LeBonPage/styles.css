@@ -1,0 +1,45 @@
+/* Style for the nav-bar (nav element) */
+.nav-bar {
+    background-color: #E5E5E5; /* Dark background color */
+    padding: 10px;
+}
+
+/* Style for the ordered list to remove default list styling */
+.nav-bar ol {
+    list-style-type: none; /* Remove default numbering */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    display: flex; /* Use flexbox to arrange items horizontally */
+    justify-content: center; /* Optionally center the items */
+}
+
+.nav-element {
+    /* Add your styles here */
+    font-size: 18px;
+    padding-right: 30px;
+}
+
+.nav-element a {
+    text-decoration: none; /* Remove the underline from links */
+    color: black; /* Set link color to white */
+    font-family: 'Futura', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.nav-element a:hover {
+    color: blue; /* Change color on hover */
+}
+
+h1{
+    font-family: 'Futura', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+h2{
+
+    font-family: 'Futura', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
