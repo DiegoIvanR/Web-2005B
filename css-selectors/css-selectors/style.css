@@ -1,3 +1,4 @@
+/* Joaquin Hiroki Campos A01639134*/
 * {
     background-color: lightblue;
 }
@@ -6,11 +7,13 @@ img {
     opacity: 0.5;
     height: 150px;
 }
+
 .ingredients li {
     color: red;
     background-color: blue;
     list-style: square;
 }
+
 .description{
     font-size: 20px;
 }
