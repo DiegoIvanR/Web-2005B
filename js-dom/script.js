@@ -1,3 +1,4 @@
+// Diego Iván Rodríguez Núñez A01644772
 let doorImage1 = document.getElementById('door1');
 let doorImage2 = document.getElementById('door2');
 let doorImage3 = document.getElementById('door3');
